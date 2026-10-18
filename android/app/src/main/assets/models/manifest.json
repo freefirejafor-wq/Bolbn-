@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "renderer": "Filament / Sceneview / OpenGL ES 3.0 glTF 2.0 Loader with 2.5D Compose Fallback",
+  "status": "FALLBACK_ACTIVE",
+  "notice": "Official fictional players are active. External rigged 3D models with skin weights are referenced below and can be loaded dynamically when files are added to this folder.",
+  "roster": [
+    {
+      "id": "player_striker_01",
+      "name": "Leo Vance",
+      "isFictional": true,
+      "role": "STRIKER",
+      "modelFile": "striker_rigged.glb",
+      "requiredClips": [
+        "idle",
+        "run_up",
+        "kick",
+        "celebration",
+        "disappointed"
+      ]
+    },
+    {
+      "id": "player_goalkeeper_01",
+      "name": "Marc Sterling",
+      "isFictional": true,
+      "role": "GOALKEEPER",
+      "modelFile": "goalkeeper_rigged.glb",
+      "requiredClips": [
+        "idle",
+        "dive_left",
+        "dive_right",
+        "dive_center",
+        "save_celebration",
+        "disappointed"
+      ]
+    }
+  ]
+}

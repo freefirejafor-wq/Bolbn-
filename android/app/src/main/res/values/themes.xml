@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PenaltyArena" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#07101E</item>
+        <item name="android:navigationBarColor">#07101E</item>
+    </style>
+</resources>

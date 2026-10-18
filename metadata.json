@@ -1,0 +1,6 @@
+{
+  "name": "Penalty Arena - Native Android Football Penalty Shootout",
+  "description": "Complete native Android football penalty shootout game built with Kotlin & Jetpack Compose, featuring 5-round shootouts, AI goalkeeper/striker, physics trajectory, and offline single-player mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

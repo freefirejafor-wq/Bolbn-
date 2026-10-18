@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="arena_green_dark">#0A2E12</color>
+    <color name="arena_green_primary">#10B981</color>
+    <color name="arena_pitch">#166534</color>
+    <color name="arena_gold">#F59E0B</color>
+    <color name="arena_night">#0B132B</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
